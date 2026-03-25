@@ -2,7 +2,7 @@
 SA: The plug-in that makes every eWallet smarter, safer, and more global.*
 
 ## Overview
-SAW is a plug-in module designed to integrate seamlessly with existing eWallets. It enhances digital payment platforms with fraud detection, adaptive identity, and multi-asset support. SAW empowers users with secure, transparent, and inclusive financial tools without requiring them to switch apps.
+SA is a plug-in module designed to integrate seamlessly with existing eWallets. It enhances digital payment platforms with fraud detection, adaptive identity, and multi-asset support. SAW empowers users with secure, transparent, and inclusive financial tools without requiring them to switch apps.
 
 ## Key Features
 - **Fraud Detection AI**: Learns transaction patterns, detects suspicious activity, and alerts users before money is sent to fraudsters.
@@ -31,4 +31,4 @@ SAW is a plug-in module designed to integrate seamlessly with existing eWallets.
 
 ---
 
-*SAW: The plug-in that makes every eWallet smarter, safer, and more global.*
+*SA: The plug-in that makes every eWallet smarter, safer, and more global.*
