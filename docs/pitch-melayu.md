@@ -6,4 +6,4 @@ Kami perkenalkan Smart Adaptive Plug‑in. SA bukan eWallet baru, tapi modul yan
 
 Bayangkan: sebelum duit dihantar, SA alert pengguna jika transaksi nampak suspicious. Identiti boleh adaptif ikut keperluan, dan semua ini berlaku dalam eWallet yang mereka dah guna.
 
-Dengan SA, pengguna lebih selamat, provider lebih mudah upgrade, dan industri lebih telus. Kami percaya SA boleh jadi standard global — macam Google Keyboard, tapi untuk kewangan. SAmenjadikan setiap eWallet lebih pintar, lebih selamat, dan lebih inklusif.
+Dengan SA, pengguna lebih selamat, provider lebih mudah upgrade, dan industri lebih telus. Kami percaya SA boleh jadi standard global — macam Google Keyboard, tapi untuk kewangan. SA menjadikan setiap eWallet lebih pintar, lebih selamat, dan lebih inklusif.
